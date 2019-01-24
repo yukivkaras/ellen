@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 // import Ellen from './ellen'
-import FirstPage from './myTest/test';
+import FirstPage from './test';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<FirstPage />, document.getElementById('root'));
